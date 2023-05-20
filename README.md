@@ -18,7 +18,7 @@ Artificial Intelligence, Machine Learning, and Deep Learning are the main techno
 
 Workflow diagram
 
-![alt text]()
+![alt text](https://github.com/PariSantoshi/G11-SightSteps/blob/main/workflow.jpeg?raw=true)
 
 
 Budget
